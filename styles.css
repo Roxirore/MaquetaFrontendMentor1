@@ -98,3 +98,7 @@ body {
     background-color: var(--Orange);
     color: var(--White);
 }
+
+.footer {
+    color: var(--White);
+}
